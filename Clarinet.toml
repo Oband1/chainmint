@@ -12,6 +12,10 @@ depends_on = []
 path = "contracts/asset-token.clar"
 depends_on = []
 
+[contracts.verification-authority]
+path = "contracts/verification-authority.clar"
+depends_on = []
+
 [repl]
 costs_version = 2
 parser_version = 2
